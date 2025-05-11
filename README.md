@@ -4,4 +4,4 @@
 ### 3. Left half pyramind pattern
 ### 4. Reverse left half pyramind pattern
 ### 5. Left triangle pattern
-### 6.
+### 6. Right triangle pattern
