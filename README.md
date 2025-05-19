@@ -6,3 +6,4 @@
 * Left triangle pattern
 * Right triangle pattern
 * left side triangle pattern
+* Printing Triangle
