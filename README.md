@@ -5,3 +5,4 @@
 * Reverse left half pyramind pattern
 * Left triangle pattern
 * Right triangle pattern
+* left side triangle pattern
