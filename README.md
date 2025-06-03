@@ -8,4 +8,5 @@
 * left side triangle pattern
 * Printing Triangle
 * Reverse Triangle
+* Diamond pattern
   
