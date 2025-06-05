@@ -6,7 +6,7 @@
 * Left triangle pattern
 * Right triangle pattern
 * left side triangle pattern
-* Printing Triangle
+* Printing Triangle pattern
 * Reverse Triangle
 * Diamond pattern
 * Sandglass timer Shape pattern
