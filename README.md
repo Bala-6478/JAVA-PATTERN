@@ -9,5 +9,5 @@
 * Printing Triangle
 * Reverse Triangle
 * Diamond pattern
-* Sandglass timer
+* Sandglass timer Shape
   
