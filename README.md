@@ -10,5 +10,5 @@
 * Reverse Triangle pattern
 * Diamond pattern
 * Sandglass timer Shape pattern
-* 
+* K shape 
   
