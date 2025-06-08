@@ -12,6 +12,7 @@
 * Diamond pattern
 * Sandglass timer Shape pattern
 * K shape pattern
-* 
+* opposite K pattern 
+  
 
   
