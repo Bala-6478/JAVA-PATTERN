@@ -12,8 +12,8 @@
 * Diamond pattern
 * Sandglass timer Shape pattern
 * K shape pattern
-* opposite K pattern
-*  
+* Opposite K pattern
+* Butterfly pattern in java
   
 
   
