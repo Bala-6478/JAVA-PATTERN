@@ -14,7 +14,7 @@
 * K shape pattern
 * Opposite K pattern
 * Butterfly pattern in java
-* hollow diamond pattern in java
+* Hollow diamond pattern in java
   
 
   
