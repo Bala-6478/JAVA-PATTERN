@@ -13,7 +13,7 @@
 * Sandglass timer Shape pattern
 * K shape pattern
 * Opposite K pattern
-* Butterfly pattern in
+* Butterfly pattern 
 * Hollow diamond pattern in java
   
 
