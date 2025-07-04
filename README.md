@@ -14,7 +14,7 @@
 * Opposite K pattern
 * Butterfly pattern 
 * Hollow diamond pattern
-  
+
   
 
   
