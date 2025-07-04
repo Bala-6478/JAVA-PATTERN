@@ -16,7 +16,7 @@
 * Hollow diamond pattern
   
   
-  
+
   
   
 
