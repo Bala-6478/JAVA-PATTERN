@@ -1,5 +1,5 @@
 ### JAVA-PATTERN                     
-* Star pattern
+* Star pattern 
 * Reverse star pattern
 * Left half pyramind pattern
 * Reverse left half pyramind pattern
