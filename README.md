@@ -9,7 +9,7 @@
 * Printing Triangle pattern
 * Reverse Triangle pattern
 * Diamond pattern
-* Sandglass timer Shape pattern
+* Sandglass timer Shape pattern 
 * K shape pattern 
 * Opposite K pattern 
 * Butterfly pattern  
