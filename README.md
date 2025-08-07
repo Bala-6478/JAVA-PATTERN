@@ -10,7 +10,7 @@
 * Reverse Triangle pattern
 * Diamond pattern
 * Sandglass timer Shape pattern
-* K shape pattern
+* K shape pattern 
 * Opposite K pattern 
 * Butterfly pattern  
 * Hollow diamond pattern
