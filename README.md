@@ -1,7 +1,7 @@
 ### JAVA-PATTERN                     
 * Star pattern 
 * Reverse star pattern
-* Left half pyramind pattern
+* Left half pyramind pattern 
 * Reverse left half pyramind pattern 
 * Left triangle pattern
 * Right triangle pattern
